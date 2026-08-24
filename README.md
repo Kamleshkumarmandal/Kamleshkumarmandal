@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kamlesh Kumar Mandal
 
-🎓 Aspiring Software Developer | 🤖 Machine Learning | 💻 Python
+🎓 Aspiring Data Scientist | AI & Machine Learning | Python | Data Analytics
 
 I'm passionate about building practical software and machine learning projects.
 
