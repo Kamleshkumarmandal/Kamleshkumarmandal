@@ -1,5 +1,41 @@
-# 💫 About Me:
-🔭 I’m currently working on Kotlin<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Development<br>🌱 I’m currently learning Java<br>💬 Ask me about anything
+# 👋 Hi, I'm Kamlesh Kumar Mandal
+
+🎓 Aspiring Software Developer | 🤖 Machine Learning | 💻 Python
+
+I'm passionate about building practical software and machine learning projects.
+
+### 🔭 Currently Working On
+- 📊 Customer Churn Prediction using Machine Learning
+- 💻 Improving my Python and software development skills
+
+### 🌱 Currently Learning
+- Java
+- Kotlin
+- Machine Learning
+- Data Science
+
+### 🛠️ Skills
+- Python
+- Java
+- Kotlin
+- Pandas
+- Scikit-learn
+- Streamlit
+- Git & GitHub
+
+### 🚀 Featured Project
+
+📊 **Customer Churn Prediction**
+
+Machine Learning web application that predicts whether a telecom customer is likely to churn.
+
+👉 **[🚀 Live Demo](https://xehxu2yce6rztlb6m3v65r.streamlit.app/)**  
+👉 **[💻 View Source Code](https://github.com/Kamleshkumarmandal/-customer-churn-prediction)**
+
+### 📫 Contact
+- GitHub: [Kamleshkumarmandal](https://github.com/Kamleshkumarmandal)
+
+⭐ Feel free to explore my repositories!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Kamleshkumarmandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
