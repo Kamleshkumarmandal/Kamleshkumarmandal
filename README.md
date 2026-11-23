@@ -27,6 +27,14 @@ My projects range from data pipelines and API reliability tools to full-stack ap
 | [ShieldXMobile](https://github.com/Kamleshkumarmandal/ShieldXMobile) | An Android app that classifies SMS messages on-device to help identify spam and smishing attempts. | Kotlin, Android, Machine Learning |
 | [BookTracker](https://github.com/Kamleshkumarmandal/BookTracker) | A full-stack book management application with a REST API and persistent database storage. | Vue 3, TypeScript, ASP.NET Core, SQLite |
 
+### 🧩 LeetCode
+
+I practise data structures and algorithms to strengthen my problem-solving skills.
+
+[**View my LeetCode profile →**](https://leetcode.com/u/kamleshkumar_123/)
+
+[![LeetCode Stats](https://leetcode-stats.tashif.codes/kamleshkumar_123/stats/svg?theme=dark)](https://leetcode.com/u/kamleshkumar_123/)
+
 ### 🌱 Currently Exploring
 
 - Reliable backend systems and API design
@@ -37,5 +45,6 @@ My projects range from data pipelines and API reliability tools to full-stack ap
 ### 📫 Connect
 
 - **GitHub:** [Kamleshkumarmandal](https://github.com/Kamleshkumarmandal)
+- **LeetCode:** [kamleshkumar_123](https://leetcode.com/u/kamleshkumar_123/)
 
 Feel free to explore my repositories and share feedback!
