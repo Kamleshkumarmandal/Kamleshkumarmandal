@@ -1,48 +1,41 @@
-# 👋 Hi, I'm Kamlesh Kumar Mandal
+# Hi, I'm Kamlesh Kumar Mandal 👋
 
-🎓 Aspiring Data Scientist | AI & Machine Learning | Python | Data Analytics
+### Software Developer | Python · AI/ML · Data Engineering · Backend Development
 
-I'm passionate about building practical software and machine learning projects.
+I build practical software and data-driven applications, exploring how machine learning, backend services, and modern web technologies can solve real-world problems.
 
-### 🔭 Currently Working On
-- 📊 Customer Churn Prediction using Machine Learning
-- 💻 Improving my Python and software development skills
+My projects range from data pipelines and API reliability tools to full-stack applications and on-device machine learning.
 
-### 🌱 Currently Learning
-- Java
-- Kotlin
-- Machine Learning
-- Data Science
+### 🛠️ Technologies
 
-### 🛠️ Skills
-- Python
-- Java
-- Kotlin
-- Pandas
-- Scikit-learn
-- Streamlit
-- Git & GitHub
+- **Languages:** Python, Java, Kotlin, JavaScript, TypeScript, C#
+- **AI & Data:** Pandas, scikit-learn, PyTorch, DuckDB, Parquet
+- **Backend & APIs:** FastAPI, Flask, ASP.NET Core
+- **Frontend & Apps:** React, Next.js, Vue.js, Streamlit, Android
+- **Databases:** PostgreSQL, SQLite, Supabase
+- **Tools:** Git, GitHub Actions, Docker
 
-### 🚀 Featured Project
+*This list reflects technologies used across my projects; experience varies by technology and project.*
 
-📊 **Customer Churn Prediction**
+### 🚀 Featured Projects
 
-Machine Learning web application that predicts whether a telecom customer is likely to churn.
+| Project | What it does | Technologies |
+|---|---|---|
+| [DataForge](https://github.com/Kamleshkumarmandal/DataForge-Modern-Data-Engineering-Platform) | A batch data pipeline with layered processing, validation, quarantine, Parquet output, and local analytics. | Python, DuckDB, Parquet, Prefect |
+| [LearnOps](https://github.com/Kamleshkumarmandal/LearnOps-AI-Student-Success-Platform) | A student-success platform prototype featuring explainable support scoring, queue prioritization, prerequisite graphs, and verified webhooks. | Next.js, TypeScript, Supabase |
+| [PulseTrace](https://github.com/Kamleshkumarmandal/PulseTrace-API-Monitoring-Reliability-Platform) | An API monitoring and reliability project with a FastAPI probe service and latency analysis. | Python, FastAPI, Streamlit, Docker |
+| [ShieldXMobile](https://github.com/Kamleshkumarmandal/ShieldXMobile) | An Android app that classifies SMS messages on-device to help identify spam and smishing attempts. | Kotlin, Android, Machine Learning |
+| [BookTracker](https://github.com/Kamleshkumarmandal/BookTracker) | A full-stack book management application with a REST API and persistent database storage. | Vue 3, TypeScript, ASP.NET Core, SQLite |
 
-👉 **[🚀 Live Demo](https://xehxu2yce6rztlb6m3v65r.streamlit.app/)**  
-👉 **[💻 View Source Code](https://github.com/Kamleshkumarmandal/-customer-churn-prediction)**
+### 🌱 Currently Exploring
 
-### 📫 Contact
-- GitHub: [Kamleshkumarmandal](https://github.com/Kamleshkumarmandal)
+- Reliable backend systems and API design
+- Data engineering workflows and pipeline orchestration
+- Applied machine learning
+- Testing, deployment, and system design
 
-⭐ Feel free to explore my repositories!
+### 📫 Connect
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kamleshkumarmandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kamleshkumarmandal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kamleshkumarmandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **GitHub:** [Kamleshkumarmandal](https://github.com/Kamleshkumarmandal)
 
----
-[![](https://komarev.com/ghpvc/?username=Kamleshkumarmandal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to explore my repositories and share feedback!
